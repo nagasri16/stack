@@ -225,7 +225,7 @@
     text-align: center;
     font-size: 20px;
 }
-.grid-item background-color{
+background-color{
     transition: background-color 2s ease-out 0.25s;
 }
 .grid-item{
